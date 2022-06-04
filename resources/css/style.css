@@ -61,7 +61,7 @@ section {
 }
 
 #status {
-    background-image: url(../img/Rhombus.gif);
+    background-image: url(/resources/img/Rhombus.gif);
     background-repeat: no-repeat;
     width: 70px;
     height: 70px;
